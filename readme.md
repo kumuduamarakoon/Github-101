@@ -1,3 +1,6 @@
--this is kumudu branch
+- This is kumudu branch
 
-- the newly added line
+- The newly added line
+
+
+This is a simple line added for testing git push
